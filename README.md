@@ -40,3 +40,6 @@ This project explores **global internet trends** by analyzing datasets on **inte
 - Incorporate machine learning for predictive analysis.
 - Expand dataset coverage to include post-2020 trends.
 - Develop an interactive web-based version for data exploration.
+
+## Exploration 
+- A presentation of insights, the tableau workbook and python code is provided. 
